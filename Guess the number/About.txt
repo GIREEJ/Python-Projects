@@ -1,0 +1,18 @@
+Explanation =>
+
+                Difficulty Levels:
+                The choose_difficulty function allows players to select between easy and hard modes, setting the range and number of attempts accordingly.
+                
+                Funny Comments:
+                The get_funny_comment function provides entertaining feedback based on whether the guess is too high or too low.
+                
+                High Score Tracking:
+                The game loads the current high score from a file using load_high_score and saves new high scores with save_high_score.
+                
+                Remaining Attempts:
+                After each guess, the game shows the remaining number of attempts.
+                
+                Replayability:
+                After a game, players can choose to play again, and the high score will be updated if a new one is achieved.
+
+This enhanced version of the "Guess the Number" game is more engaging, and the high score feature encourages competition and replayability. 
