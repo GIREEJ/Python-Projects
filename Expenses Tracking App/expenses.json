@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2024-08-09",
+        "category": "food",
+        "description": "lunch",
+        "amount": 156.35
+    },
+    {
+        "date": "2024-08-05",
+        "category": "shopping",
+        "description": "buing phone",
+        "amount": 14999.0
+    },
+    {
+        "date": "2024-08-01",
+        "category": "food",
+        "description": "dinner",
+        "amount": 248.23
+    },
+    {
+        "date": "2024-08-09",
+        "category": "food",
+        "description": "lunch",
+        "amount": 483.88
+    },
+    {
+        "date": "2024-08-02",
+        "category": "food",
+        "description": "dinner",
+        "amount": 849.76
+    },
+    {
+        "date": "2024-08-05",
+        "category": "shopping",
+        "description": "buying toys",
+        "amount": 1272.67
+    },
+    {
+        "date": "2024-08-05",
+        "category": "traveling`",
+        "description": "going bunjari with family",
+        "amount": 120.0
+    }
+]
